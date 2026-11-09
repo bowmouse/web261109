@@ -15,7 +15,7 @@ const movies = [
     {title: "미션 임파서블: 로그네이션", year: 2015, date: "2015-07-28",
     rating: 7.20, poster: "https://image.tmdb.org/t/p/w342/s2426EIW0arpjN0R0qErJfXQxZD.jpg"},
     {title: "미션 임파서블: 파이널 레코닝", year: 2025, date: "2025-05-17",
-    rating: 7.16, poster: "https://image.tmdb.org/t/p/w342/iNJsojTGQoOWL9f9U23jsibONVu.jpg"}
+    rating: 7.16, poster: "https://image.tmdb.org/t/p/w342/iNJsojTGQoOWL9f9U23jsibONVu.jpg"}ㅁ
     
     // 위와 같은 모양으로 4편을 더 씁니다. 객체와 객체 사이에는 쉼표(,)
 ];
